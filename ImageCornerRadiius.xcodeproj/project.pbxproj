@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9DD2FD9326AD4D03005A02A3 /* Image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Image.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DD2FD9326AD4D03005A02A3 /* ImageCornerRadiius.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageCornerRadiius.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DD2FD9626AD4D03005A02A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DD2FD9826AD4D03005A02A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9DD2FD9A26AD4D03005A02A3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		9DD2FD9426AD4D03005A02A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9DD2FD9326AD4D03005A02A3 /* Image.app */,
+				9DD2FD9326AD4D03005A02A3 /* ImageCornerRadiius.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9DD2FD9226AD4D03005A02A3 /* Image */ = {
+		9DD2FD9226AD4D03005A02A3 /* ImageCornerRadiius */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DD2FDA726AD4D04005A02A3 /* Build configuration list for PBXNativeTarget "Image" */;
+			buildConfigurationList = 9DD2FDA726AD4D04005A02A3 /* Build configuration list for PBXNativeTarget "ImageCornerRadiius" */;
 			buildPhases = (
 				9DD2FD8F26AD4D03005A02A3 /* Sources */,
 				9DD2FD9026AD4D03005A02A3 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Image;
+			name = ImageCornerRadiius;
 			productName = Image;
-			productReference = 9DD2FD9326AD4D03005A02A3 /* Image.app */;
+			productReference = 9DD2FD9326AD4D03005A02A3 /* ImageCornerRadiius.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9DD2FD8E26AD4D03005A02A3 /* Build configuration list for PBXProject "Image" */;
+			buildConfigurationList = 9DD2FD8E26AD4D03005A02A3 /* Build configuration list for PBXProject "ImageCornerRadiius" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9DD2FD9226AD4D03005A02A3 /* Image */,
+				9DD2FD9226AD4D03005A02A3 /* ImageCornerRadiius */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9DD2FD8E26AD4D03005A02A3 /* Build configuration list for PBXProject "Image" */ = {
+		9DD2FD8E26AD4D03005A02A3 /* Build configuration list for PBXProject "ImageCornerRadiius" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9DD2FDA526AD4D04005A02A3 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DD2FDA726AD4D04005A02A3 /* Build configuration list for PBXNativeTarget "Image" */ = {
+		9DD2FDA726AD4D04005A02A3 /* Build configuration list for PBXNativeTarget "ImageCornerRadiius" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9DD2FDA826AD4D04005A02A3 /* Debug */,
